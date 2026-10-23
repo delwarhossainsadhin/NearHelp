@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "958070133795",
+    "project_id": "nearhelp-413c8",
+    "storage_bucket": "nearhelp-413c8.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:958070133795:android:96079f35b2266d63f64d96",
+        "android_client_info": {
+          "package_name": "com.example.near_help"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDCuHHTKOSH3kdCVWp6MbR52upEvdi8QSY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
